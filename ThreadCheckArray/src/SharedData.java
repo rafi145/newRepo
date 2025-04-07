@@ -17,7 +17,7 @@ public class SharedData
 	}
 
 	//test2
-	//sdsadsad
+
 	public void setWinArray(boolean [] winArray) 
 	{
 		this.winArray = winArray;
